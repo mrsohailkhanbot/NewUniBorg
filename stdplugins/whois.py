@@ -48,24 +48,24 @@ async def _(event):
         location = str(e)
     caption = """Detailed Whois:
 
-🔖ID: <code>{}</code>
-🤵Name: <a href='tg://user?id={}'>{}</a>
-✍️Bio: {}
-🌏Data Centre Number: {}
-🖼Number of Profile Pics: {}
-🔏Restricted: {}
-🌐Verified: {}
-🤖Bot: {}
-👥Groups in Common: {}
+🔖Randi Ka ID: <code>{}</code>
+🤵Rand Ka Name: <a href='tg://user?id={}'>{}</a>
+✍️Randi Ka Bio: {}
+🌏Randi Ka Data Centre Number: {}
+🖼Randi KaNumber of Profile Pics: {}
+🔏Randi Restricted Hai kya: {}
+🌐Randi Verified Hai kya: {}
+🤖Randi Bot Hai Kya: {}
+👥Randi Kitne Common Group pr Hai: {}
 
 
 List Of Telegram Data Centres:
 
-DC1 : Miami FL, USA
-DC2 : Amsterdam, NL
-DC3 : Miami FL, USA
-DC4 : Amsterdam, NL
-DC5 : Singapore, SG
+DC1 : Ayan Ansari,Aaryan,Aditya Prasad Sb Randi Ke bcche Inki Maa 100main deti hai
+DC2 : Bsdk Ki Maa Bhen Ki Kon Marega, In
+DC3 : bsdk Ki bhen ki chut,In
+DC4 : Bsdk Ki Maa Ki Chut, IN
+DC5 : Randi ki Maa Ka Ghar, In
 """.format(
         user_id,
         user_id,
